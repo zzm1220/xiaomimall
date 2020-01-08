@@ -7,17 +7,7 @@
 <script>
 
 export default {
-  name: 'app',
-  components: {
-  },
-  data() {
-    return {
-      age: 29,
-      result: ''
-    }
-  },
-  mounted() {
-  }
+  name: 'app'
 }
 </script>
 
